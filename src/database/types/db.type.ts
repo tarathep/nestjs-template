@@ -1,0 +1,1 @@
+export type DbType = 'mariadb' | 'mysql' | 'postgres' | 'mssql' | 'sqlite';
